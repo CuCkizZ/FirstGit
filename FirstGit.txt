@@ -1,1 +1,2 @@
 writeln("Hello guzz");
+MessageBox.Show("Hello u2, mate");
